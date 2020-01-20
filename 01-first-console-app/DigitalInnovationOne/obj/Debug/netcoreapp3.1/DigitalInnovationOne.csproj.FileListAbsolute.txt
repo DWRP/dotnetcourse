@@ -1,0 +1,11 @@
+C:\Users\Douglas\Documents\projects\dotnetcourse\01-first-console-app\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.exe
+C:\Users\Douglas\Documents\projects\dotnetcourse\01-first-console-app\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.deps.json
+C:\Users\Douglas\Documents\projects\dotnetcourse\01-first-console-app\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.runtimeconfig.json
+C:\Users\Douglas\Documents\projects\dotnetcourse\01-first-console-app\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.runtimeconfig.dev.json
+C:\Users\Douglas\Documents\projects\dotnetcourse\01-first-console-app\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.dll
+C:\Users\Douglas\Documents\projects\dotnetcourse\01-first-console-app\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.pdb
+C:\Users\Douglas\Documents\projects\dotnetcourse\01-first-console-app\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.csprojAssemblyReference.cache
+C:\Users\Douglas\Documents\projects\dotnetcourse\01-first-console-app\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\Users\Douglas\Documents\projects\dotnetcourse\01-first-console-app\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.AssemblyInfo.cs
+C:\Users\Douglas\Documents\projects\dotnetcourse\01-first-console-app\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.dll
+C:\Users\Douglas\Documents\projects\dotnetcourse\01-first-console-app\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.pdb
