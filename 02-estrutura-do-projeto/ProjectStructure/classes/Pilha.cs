@@ -1,6 +1,6 @@
 using System;
 
-namespace ProjectStructure
+namespace ProjectStructure.classes
 {
     public class Pilha
     {

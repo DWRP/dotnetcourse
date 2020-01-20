@@ -1,4 +1,5 @@
 ﻿using System;
+using ProjectStructure.classes;
 
 namespace ProjectStructure
 {
