@@ -1,0 +1,11 @@
+C:\Users\Douglas\Documents\projects\dotnetcourse\02-estrutura-do-projeto\ProjectStructure\bin\Debug\netcoreapp3.1\ProjectStructure.exe
+C:\Users\Douglas\Documents\projects\dotnetcourse\02-estrutura-do-projeto\ProjectStructure\bin\Debug\netcoreapp3.1\ProjectStructure.deps.json
+C:\Users\Douglas\Documents\projects\dotnetcourse\02-estrutura-do-projeto\ProjectStructure\bin\Debug\netcoreapp3.1\ProjectStructure.runtimeconfig.json
+C:\Users\Douglas\Documents\projects\dotnetcourse\02-estrutura-do-projeto\ProjectStructure\bin\Debug\netcoreapp3.1\ProjectStructure.runtimeconfig.dev.json
+C:\Users\Douglas\Documents\projects\dotnetcourse\02-estrutura-do-projeto\ProjectStructure\bin\Debug\netcoreapp3.1\ProjectStructure.dll
+C:\Users\Douglas\Documents\projects\dotnetcourse\02-estrutura-do-projeto\ProjectStructure\bin\Debug\netcoreapp3.1\ProjectStructure.pdb
+C:\Users\Douglas\Documents\projects\dotnetcourse\02-estrutura-do-projeto\ProjectStructure\obj\Debug\netcoreapp3.1\ProjectStructure.csprojAssemblyReference.cache
+C:\Users\Douglas\Documents\projects\dotnetcourse\02-estrutura-do-projeto\ProjectStructure\obj\Debug\netcoreapp3.1\ProjectStructure.AssemblyInfoInputs.cache
+C:\Users\Douglas\Documents\projects\dotnetcourse\02-estrutura-do-projeto\ProjectStructure\obj\Debug\netcoreapp3.1\ProjectStructure.AssemblyInfo.cs
+C:\Users\Douglas\Documents\projects\dotnetcourse\02-estrutura-do-projeto\ProjectStructure\obj\Debug\netcoreapp3.1\ProjectStructure.dll
+C:\Users\Douglas\Documents\projects\dotnetcourse\02-estrutura-do-projeto\ProjectStructure\obj\Debug\netcoreapp3.1\ProjectStructure.pdb
