@@ -1,0 +1,11 @@
+C:\Users\Douglas\Documents\projects\dotnetcourse\04-classes-e-objetos\ClassAndObjetcs\bin\Debug\netcoreapp3.1\ClassAndObjetcs.exe
+C:\Users\Douglas\Documents\projects\dotnetcourse\04-classes-e-objetos\ClassAndObjetcs\bin\Debug\netcoreapp3.1\ClassAndObjetcs.deps.json
+C:\Users\Douglas\Documents\projects\dotnetcourse\04-classes-e-objetos\ClassAndObjetcs\bin\Debug\netcoreapp3.1\ClassAndObjetcs.runtimeconfig.json
+C:\Users\Douglas\Documents\projects\dotnetcourse\04-classes-e-objetos\ClassAndObjetcs\bin\Debug\netcoreapp3.1\ClassAndObjetcs.runtimeconfig.dev.json
+C:\Users\Douglas\Documents\projects\dotnetcourse\04-classes-e-objetos\ClassAndObjetcs\bin\Debug\netcoreapp3.1\ClassAndObjetcs.dll
+C:\Users\Douglas\Documents\projects\dotnetcourse\04-classes-e-objetos\ClassAndObjetcs\bin\Debug\netcoreapp3.1\ClassAndObjetcs.pdb
+C:\Users\Douglas\Documents\projects\dotnetcourse\04-classes-e-objetos\ClassAndObjetcs\obj\Debug\netcoreapp3.1\ClassAndObjetcs.csprojAssemblyReference.cache
+C:\Users\Douglas\Documents\projects\dotnetcourse\04-classes-e-objetos\ClassAndObjetcs\obj\Debug\netcoreapp3.1\ClassAndObjetcs.AssemblyInfoInputs.cache
+C:\Users\Douglas\Documents\projects\dotnetcourse\04-classes-e-objetos\ClassAndObjetcs\obj\Debug\netcoreapp3.1\ClassAndObjetcs.AssemblyInfo.cs
+C:\Users\Douglas\Documents\projects\dotnetcourse\04-classes-e-objetos\ClassAndObjetcs\obj\Debug\netcoreapp3.1\ClassAndObjetcs.dll
+C:\Users\Douglas\Documents\projects\dotnetcourse\04-classes-e-objetos\ClassAndObjetcs\obj\Debug\netcoreapp3.1\ClassAndObjetcs.pdb
